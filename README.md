@@ -64,10 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Avanex Corporation was a fiber-optic components manufacturer founded in 1997 and headquartered in Fremont, California. It designed and built photonic processors, optical components, modules and subsystems for fiber-optic communication networks, and went public on NASDAQ in February 2000.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-**Status: defunct.** In April 2009 Avanex merged with Bookham Technology to form Oclaro. Oclaro was acquired by Lumentum in December 2018.
+Avanex Corporation was a fiber-optic components manufacturer founded in 1997 and headquartered in Fremont, California, backed by Mayfield along with Crosspoint Venture Partners, JAFCO America and Sequoia Capital. Avanex designed and built photonic processors, optical components, modules and subsystems used to raise the speed and capacity of fiber-optic communication networks, and went public on NASDAQ in February 2000 raising $216 million. In April 2009 Avanex merged with Bookham Technology to form Oclaro, and Oclaro was in turn acquired by Lumentum in December 2018. Avanex is no longer an operating company: it publishes no developer portal, documentation, or API of any kind, and the avanex.com domain is now a parked GoDaddy for-sale listing. This profile is retained as a historical portfolio-lineage record only.
 
-Avanex publishes no developer portal, documentation, or API. The `avanex.com` domain is a parked GoDaddy for-sale listing. This repo is retained as a historical portfolio-lineage record.
+**Areas:** Company · Optical Networking · Fiber Optics · Photonics · Hardware · Telecommunications · Semiconductors · Defunct
 
-Backed by: mayfield (with Crosspoint Venture Partners, JAFCO America, Sequoia Capital)
+## Avanex on APIs.io (historical record)
+
+Everything profiled for Avanex is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/avanex/](https://apis.io/providers/avanex/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Avanex: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/avanex/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
